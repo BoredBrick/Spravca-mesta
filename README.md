@@ -1,0 +1,2 @@
+# Spravca mesta
+ 
